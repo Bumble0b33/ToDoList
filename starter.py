@@ -1,4 +1,6 @@
-# --- main part of program ---
+# --- main part of program ---#
+#edit to make a to do list creator
+
 FILENAME = 'list.txt' # define the filename used to store the list
 lineList = getList(FILENAME) # call the getList function to read the file into a list
 
